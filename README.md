@@ -56,6 +56,7 @@ As validações (screenshots em `.png`) estão na seguinte localização `ada-re
 
 ## ⚠️ Observações importantes:
 Devido às limitações de envio, o arquivo de imagem do roteador não está contido na pasta deste projeto. Para utilizar o projeto, é necessário colocar a imagem no diretório correspondente `# Pasta da imagem do roteador`. É preferível que o nome da imagem seja: `c3725-adventerprisek9-mz.124-15.T14.image`.
+> [⬇️ Download da imagem do roteador](https://mega.nz/#!oFsgQQqT!teTimFspl4JyQxpki-7BKfCGccpO7pmvHTJNHxVMAo4) 
 
 ---
 
