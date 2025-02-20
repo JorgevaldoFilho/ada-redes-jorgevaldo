@@ -55,7 +55,7 @@ Sobre a validação do projeto, é possível verificar através dos testes de co
 As validações (screenshots em `.png`) estão na seguinte localização `ada-redes-jorgevaldo/validações` deste projeto.
 
 ## ⚠️ Observações importantes:
-Devido às limitações de envio, o arquivo de imagem do roteador não está contido na pasta deste projeto. Para utilizar o projeto, é necessário colocar a imagem no diretório correspondente `# Imagem do roteador`. É preferível que o nome da imagem seja: `c3725-adventerprisek9-mz.124-15.T14.image`.
+Devido às limitações de envio, o arquivo de imagem do roteador não está contido na pasta deste projeto. Para utilizar o projeto, é necessário colocar a imagem no diretório correspondente `# Pasta da imagem do roteador`. É preferível que o nome da imagem seja: `c3725-adventerprisek9-mz.124-15.T14.image`.
 
 ---
 
