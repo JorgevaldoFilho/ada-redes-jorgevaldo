@@ -36,7 +36,7 @@ Para uma visualização mais ampla do projeto, a seguir está a estrutura do pro
 ```
 ├── gns3-diagrama-redes                                         # Diagrama do GNS3
 │   ├── gns3-diagrama-redes.gns3                                # Arquivo principal do diagrama
-│   ├── image                                                   # Pasta da imagem do roteador
+│   ├── image                                                   # Pasta da imagem do roteador (deve-se seguir este padrão)
 │   │   ├── c3725-adventerprisek9-mz.124-15.T14.image           
 │   │   └── c3725-adventerprisek9-mz.124-15.T14.image.md5sum    
 │   └── project-files                                           # Arquivos essenciais do diagrama
@@ -53,6 +53,9 @@ Sobre a validação do projeto, é possível verificar através dos testes de co
 - show ip route
 
 As validações (screenshots em `.png`) estão na seguinte localização `ada-redes-jorgevaldo/validações` deste projeto.
+
+## ⚠️ Observações importantes:
+Devido às limitações de envio, o arquivo de imagem do roteador não está contido na pasta deste projeto. Para utilizar o projeto, é necessário colocar a imagem no diretório correspondente `# Imagem do roteador`. É preferível que o nome da imagem seja: `c3725-adventerprisek9-mz.124-15.T14.image`.
 
 ---
 
