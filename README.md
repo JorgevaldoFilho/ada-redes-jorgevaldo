@@ -18,8 +18,7 @@ Os departamentos seguem a seguinte configuração:
 >     - **Gerência:** 50 hosts
 
 Veja um exemplo utilizando a fórmula para o departamento de **TI**:
-
-#### **TI**: 
+ 
 $$ 2^{32-n}-2 \geq 100 \therefore n=25 $$
 
 ### 📄 Resultados das sub-redes:
